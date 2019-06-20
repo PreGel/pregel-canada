@@ -1,0 +1,58 @@
+
+/*
+Theme Name: PreGel Canada
+Description: Child theme for Canada - Parent PreGel Master
+Author: PreGel America
+Template: pregel
+*/
+
+/* custom css */
+#product-bar h3 {
+padding: 14% 0 14% 4%;
+}
+@media (max-width: 1215px) {
+    .form-search .input-text {
+        width: 100%; 
+    }
+    .nav-table {
+        margin-left: 5rem !important;
+    }
+}
+/*.nav-table {
+    margin-left: 10rem;
+}*/
+ul.dropdown.menu > li > a {
+    padding: 0.8rem 1.5rem 1rem;
+}
+.page-id-20 #pg-about-banner {
+    background-image: url(assets/images/SUBSIDIARIES_HeaderISO.png);
+}
+.page-id-29 #pg-about-banner {
+	background-image: url(assets/images/SERVICES_CUSTOMERSUPPORT_HeaderISO.png);
+}
+.page-id-37 #pg-about-banner {
+    background-image: url(assets/images/ABOUT_main_HeaderISO.png);
+}
+.page-id-62 #pg-about-banner {
+    background-image: url(assets/images/TRAINING_HeaderISO.png);
+}
+.page-id-123 #pg-about-banner {
+    background-image: url(assets/images/ABOUT_main_HeaderISO.png);
+}
+.page-id-405 .parrallax {
+	background-image: url(assets/images/PGCA-Office.jpg);
+}
+.page-id-49 #pg-about-section-five {
+	display: none;
+}
+.mxyt-title h1 {
+	color: #fff;
+	font-size: 14px;
+    font-weight: bold;
+}
+@media (max-width: 1200px) {
+    #second-top-bar-menu a {
+        font-size: .8rem !important;
+    }
+
+}
